@@ -1,0 +1,13 @@
+int m=9;
+int p=1+1;
+
+ int main()
+{ int a=1;
+bool mmm=true;
+ if (a==1){
+
+ int c=2;}else{
+
+
+ int d=3;}
+ }
