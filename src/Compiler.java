@@ -30,7 +30,7 @@ public class Compiler {
     public static void main(String[] args) throws Exception {
 
         //chose the read option
-        boolean localjudge =false;
+        boolean localjudge =true;
         boolean local_test_ir = false;
         boolean inlinux=false;
         String name;
